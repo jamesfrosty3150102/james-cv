@@ -1,0 +1,17 @@
+[
+  {
+    "name" : "Vernon",
+    "age" : 29,
+      "powers" : [
+      "Radiation resistance",
+      "Turning tiny",
+      "Radiation blast"
+    ]
+    ]
+  },
+  {
+    "name" : "Madame Uppercut",
+    "age" : 39,
+    "secretIdentity" : "Jane Wilson",
+  }
+]
